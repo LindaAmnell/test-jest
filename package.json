@@ -9,11 +9,11 @@
   },
   "keywords": [
     "tdd",
-    "jest"
+    "vitest"
   ],
   "author": "Linda Amnell",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "vitest": "^1.6.0"
   }
 }
